@@ -1,3 +1,5 @@
+<base target="_blank">
+
 # The ultimative guide for a good open source android experience
 
 ## Alternative Android OS
@@ -42,7 +44,10 @@
 
 ## Koler
 
-[<img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" alt="Get it on Google Play" height="60">]() [<img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="60">]() [<img src="./img/badge_github.png" alt="View on Github" height="60">](https://github.com/Chooloo/koler)
+- 💰 Google Play 
+- Modern UI
+
+[<img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" alt="Get it on Google Play" height="60">](https://play.google.com/store/apps/details?id=com.chooloo.www.koler) [<img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="60">](https://f-droid.org/packages/com.chooloo.www.koler/) [<img src="./img/badge_github.png" alt="View on Github" height="60">](https://github.com/Chooloo/koler)
 
 ![](https://img.shields.io/github/release-date-pre/Chooloo/koler) ![](https://img.shields.io/github/v/release/Chooloo/koler)
 
@@ -114,6 +119,7 @@
 
 ## Theema
 
+- 💰 Google Play 
 - FDroid needs a shop license
 
 [<img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" alt="Get it on Google Play" height="60">](https://play.google.com/store/apps/details?id=ch.threema.app) [<img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="60">](https://threema.ch/en/faq/libre_installation) [<img src="./img/badge_github.png" alt="View on Github" height="60">](https://github.com/threema-ch/threema-android)
@@ -174,13 +180,17 @@
 
 ## FindMyDevice
 
-[<img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" alt="Get it on Google Play" height="60">]() [<img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="60">](https://f-droid.org/en/packages/de.nulide.findmydevice/) [Gitlab](https://gitlab.com/Nulide/findmydevice)
+[<img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="60">](https://f-droid.org/en/packages/de.nulide.findmydevice/) [Gitlab](https://gitlab.com/Nulide/findmydevice)
 
 # Weather
 
 ## Weather
 
-[<img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" alt="Get it on Google Play" height="60">]() [<img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="60">]() [<img src="./img/badge_github.png" alt="View on Github" height="60">]()
+```
+Small Weather App with data from OpenWeatherMap.org
+```
+
+[<img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" alt="Get it on Google Play" height="60">](https://play.google.com/store/apps/details?id=de.beowulf.wetter) [<img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="60">](https://f-droid.org/en/packages/de.beowulf.wetter/) [Codeberg](https://codeberg.org/BeoCode/Weather)
 
 # Entertainment
 
@@ -197,7 +207,8 @@ A libre lightweight streaming front-end for Android.
 ```
 The official ReVanced Manager based on Flutter. Patches Youtube, Youtube Music, Twitch, TikTok
 ```
- [<img src="./img/badge_github.png" alt="View on Github" height="60">](https://github.com/revanced/revanced-manager)
+
+[<img src="./img/badge_github.png" alt="View on Github" height="60">](https://github.com/revanced/revanced-manager)
 
 # Debloat tools
 
