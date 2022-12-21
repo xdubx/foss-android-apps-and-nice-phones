@@ -18,21 +18,21 @@
 
 # App Store
 
-### Aurora Store
+## Aurora Store
 
-[Website](https://auroraoss.com/) [Sorce](https://gitlab.com/AuroraOSS/AuroraStore) [<img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="60">](https://f-droid.org/en/packages/com.aurora.store/)
+[Website](https://auroraoss.com/) [Gitlab](https://gitlab.com/AuroraOSS/AuroraStore) [<img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="60">](https://f-droid.org/en/packages/com.aurora.store/)
 
-### FDroid
+## FDroid
 
 [Download](https://f-droid.org/F-Droid.apk) [Website](https://f-droid.org/)
 
-### Apk Mirror
+## Apk Mirror
 
 [Website](https://www.apkmirror.com/)
 
 # Dialer
 
-### Emerald Dialer
+## Emerald Dialer
 
 - Dark Mode
 
@@ -40,7 +40,7 @@
 
 ![](https://img.shields.io/github/release-date-pre/HenriDellal/emerald-dialer) ![](https://img.shields.io/github/v/release/HenriDellal/emerald-dialer)
 
-### Koler
+## Koler
 
 [<img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" alt="Get it on Google Play" height="60">]() [<img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="60">]() [<img src="./img/badge_github.png" alt="View on Github" height="60">](https://github.com/Chooloo/koler)
 
@@ -48,7 +48,7 @@
 
 # Mailer
 
-### Fairmail
+## Fairmail
 
 - Dark Mode
 - Advanced Preferences
@@ -58,7 +58,7 @@
 
 ![](https://img.shields.io/github/release-date-pre/M66B/FairEmail) ![](https://img.shields.io/github/v/release/M66B/FairEmail)
 
-### K9 Mail
+## K9 Mail
 
 - Dark Mode
 
@@ -68,7 +68,7 @@
 
 # Calender
 
-### Etar
+## Etar
 
 - Dark Mode
 
@@ -78,27 +78,27 @@
 
 # Tasks
 
-### Nextcloud Deck
+## Nextcloud Deck
 
 [<img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" alt="Get it on Google Play" height="60">]() [<img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="60">]() [<img src="./img/badge_github.png" alt="View on Github" height="60">]()
 
-### Tasks
+## Tasks
 
 [<img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" alt="Get it on Google Play" height="60">]() [<img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="60">]() [<img src="./img/badge_github.png" alt="View on Github" height="60">]()
 
 # Navigation
 
-### Open Street Map
+## Open Street Map
 
 [<img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" alt="Get it on Google Play" height="60">]() [<img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="60">]() [<img src="./img/badge_github.png" alt="View on Github" height="60">]()
 
-### OsmAnd
+## OsmAnd
 
 [<img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" alt="Get it on Google Play" height="60">]() [<img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="60">](https://f-droid.org/packages/net.osmand.plus/) [<img src="./img/badge_github.png" alt="View on Github" height="60">](https://github.com/osmandapp/Osmand)
 
 # Contacts
 
-### Simple Contacts
+## Simple Contacts
 
 - Darkmode
 
@@ -108,25 +108,29 @@
 
 # Messaging
 
-### Elements (Matrix)
+## Elements (Matrix)
 
-[<img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" alt="Get it on Google Play" height="60">]() [<img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="60">]() [Source]()
+[<img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" alt="Get it on Google Play" height="60">](https://play.google.com/store/apps/details?id=im.vector.app) [<img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="60">](https://f-droid.org/en/packages/im.vector.app/) [<img src="./img/badge_github.png" alt="View on Github" height="60">](https://github.com/vector-im/element-android)
 
-### Theema
+## Theema
 
-[<img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" alt="Get it on Google Play" height="60">]() [<img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="60">]() [Source]()
+- FDroid needs a shop license
 
-### Signal
+[<img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" alt="Get it on Google Play" height="60">](https://play.google.com/store/apps/details?id=ch.threema.app) [<img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="60">](https://threema.ch/en/faq/libre_installation) [<img src="./img/badge_github.png" alt="View on Github" height="60">](https://github.com/threema-ch/threema-android)
 
-[<img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" alt="Get it on Google Play" height="60">]() [<img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="60">]() [Source]()
+## Signal
 
-### Nextcloud talk
+[<img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" alt="Get it on Google Play" height="60">](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms) [<img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="60">]() [<img src="./img/badge_github.png" alt="View on Github" height="60">](https://github.com/signalapp/Signal-Android)
 
-[<img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" alt="Get it on Google Play" height="60">]() [<img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="60">]() [Source]()
+## Nextcloud talk
 
-### Jitsi Meet
+- No push notifcations on FDroid
 
-[<img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" alt="Get it on Google Play" height="60">]() [<img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="60">]() [Source]()
+[<img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" alt="Get it on Google Play" height="60">](https://play.google.com/store/apps/details?id=com.nextcloud.talk2) [<img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="60">](https://f-droid.org/en/packages/com.nextcloud.talk2/) [<img src="./img/badge_github.png" alt="View on Github" height="60">](https://github.com/nextcloud/talk-android)
+
+## Jitsi Meet
+
+[<img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" alt="Get it on Google Play" height="60">](https://play.google.com/store/apps/details?id=org.jitsi.meet) [<img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="60">](https://f-droid.org/en/packages/org.jitsi.meet/) [<img src="./img/badge_github.png" alt="View on Github" height="60">](https://github.com/jitsi/jitsi-meet)
 
 # Payment
 
@@ -134,17 +138,17 @@
 
 # Browser
 
-### Brave
+## Brave
 
-[<img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" alt="Get it on Google Play" height="60">]() [<img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="60">]() [Source]()
+[<img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" alt="Get it on Google Play" height="60">](https://play.google.com/store/apps/details?id=com.brave.browser) [<img src="./img/badge_github.png" alt="View on Github" height="60">](https://github.com/brave/brave-browser)
 
-### Firefox
+## Firefox
 
-[<img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" alt="Get it on Google Play" height="60">]() [<img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="60">]() [Source]()
+[<img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" alt="Get it on Google Play" height="60">](https://play.google.com/store/apps/details?id=org.mozilla.firefox) [<img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="60">]() [Source](https://github.com/mozilla-mobile/fenix)
 
 # Search Engine
 
-### Duck Duck Go
+## Duck Duck Go
 
 - Can used as search bar
 - Proxy to block tracking
@@ -154,13 +158,13 @@
 
 # Password Management / F2A
 
-### Aegis
+## Aegis
 
 [<img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" alt="Get it on Google Play" height="60">]() [<img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="60">](https://f-droid.org/en/packages/com.beemdevelopment.aegis/) [<img src="./img/badge_github.png" alt="View on Github" height="60">](https://github.com/beemdevelopment/Aegis)
 
 ![](https://img.shields.io/github/release-date-pre/beemdevelopment/Aegis) ![](https://img.shields.io/github/v/release/beemdevelopment/Aegis)
 
-### Bitwarden
+## Bitwarden
 
 [<img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" alt="Get it on Google Play" height="60">]() [<img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="60">](https://mobileapp.bitwarden.com/fdroid/) [<img src="./img/badge_github.png" alt="View on Github" height="60">]()
 
@@ -168,35 +172,42 @@
 
 # Device Security
 
-### FindMyDevice
+## FindMyDevice
 
 [<img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" alt="Get it on Google Play" height="60">]() [<img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="60">](https://f-droid.org/en/packages/de.nulide.findmydevice/) [Gitlab](https://gitlab.com/Nulide/findmydevice)
 
 # Weather
 
-### Weather
+## Weather
 
 [<img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" alt="Get it on Google Play" height="60">]() [<img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="60">]() [<img src="./img/badge_github.png" alt="View on Github" height="60">]()
 
 # Entertainment
 
-### New Pipe
+## New Pipe
 
-[<img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" alt="Get it on Google Play" height="60">]() [<img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="60">]() [<img src="./img/badge_github.png" alt="View on Github" height="60">]()
+```
+A libre lightweight streaming front-end for Android.
+```
 
-### Vancied
+[<img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="60">](https://f-droid.org/packages/org.schabi.newpipe/) [<img src="./img/badge_github.png" alt="View on Github" height="60">](https://github.com/TeamNewPipe/NewPipe)
 
-[<img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" alt="Get it on Google Play" height="60">]() [<img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="60">]() [<img src="./img/badge_github.png" alt="View on Github" height="60">]()
+## ReVancied
+
+```
+The official ReVanced Manager based on Flutter. Patches Youtube, Youtube Music, Twitch, TikTok
+```
+ [<img src="./img/badge_github.png" alt="View on Github" height="60">](https://github.com/revanced/revanced-manager)
 
 # Debloat tools
 
 [Source](https://github.com/0x192/universal-android-debloater)
 
-# Android Phone buy list
+# Android Phone buy list for Custom Os
 
 - Fairphone
 - Google Pixel
-- Nothing One
+- Nothing One (not tested)
 
 ## Sources
 
