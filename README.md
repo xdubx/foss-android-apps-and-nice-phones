@@ -16,7 +16,9 @@
 | [Plasma Mobile](https://plasma-mobile.org/) | [Click](https://plasma-mobile.org/get/)                         | Version              |
 | [postmarketOs](https://postmarketos.org/)   | [Click](https://wiki.postmarketos.org/wiki/Devices)             | Version              |
 | [Tizen](https://www.tizen.org/)             | [Click](https://wiki.tizen.org/Devices)                         | Version              |
-| [PureOS](https://pureos.net/)               | [librem-5](https://puri.sm/products/librem-5/pureos-mobile/)    | Version              |
+| [PureOS](https://pureos.net/)               | [Click](https://puri.sm/products/librem-5/pureos-mobile/)    | Version              |
+| [iode](https://iode.tech/en/)               | [Click](https://github.com/iodeOS/ota)    | Version              |
+| [Divestos](https://divestos.org/)               | [Click](https://divestos.org/pages/devices)    | Version              |
 
 # App Store
 
@@ -34,17 +36,23 @@
 
 # Dialer
 
+## Simple Dialer
+
+[<img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" alt="Get it on Google Play" height="60">](https://play.google.com/store/apps/details?id=com.simplemobiletools.dialer) [<img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="60">](https://f-droid.org/packages/com.simplemobiletools.dialer/) [<img src="./img/badge_github.png" alt="View on Github" height="60">](https://github.com/SimpleMobileTools/Simple-Dialer)
+
+![](https://img.shields.io/github/release-date-pre/SimpleMobileTools/Simple-Dialer) ![](https://img.shields.io/github/v/release/SimpleMobileTools/Simple-Dialer)
+
 ## Emerald Dialer
 
 - Dark Mode
 
-[<img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" alt="Get it on Google Play" height="60">]() [<img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="60">](https://f-droid.org/packages/ru.henridellal.dialer/) [<img src="./img/badge_github.png" alt="View on Github" height="60">](https://github.com/HenriDellal/emerald-dialer)
+[<img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="60">](https://f-droid.org/packages/ru.henridellal.dialer/) [<img src="./img/badge_github.png" alt="View on Github" height="60">](https://github.com/HenriDellal/emerald-dialer)
 
 ![](https://img.shields.io/github/release-date-pre/HenriDellal/emerald-dialer) ![](https://img.shields.io/github/v/release/HenriDellal/emerald-dialer)
 
 ## Koler
 
-- 💰 Google Play 
+- 💰 Google Play
 - Modern UI
 
 [<img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" alt="Get it on Google Play" height="60">](https://play.google.com/store/apps/details?id=com.chooloo.www.koler) [<img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="60">](https://f-droid.org/packages/com.chooloo.www.koler/) [<img src="./img/badge_github.png" alt="View on Github" height="60">](https://github.com/Chooloo/koler)
@@ -119,7 +127,7 @@
 
 ## Theema
 
-- 💰 Google Play 
+- 💰 Google Play
 - FDroid needs a shop license
 
 [<img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" alt="Get it on Google Play" height="60">](https://play.google.com/store/apps/details?id=ch.threema.app) [<img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="60">](https://threema.ch/en/faq/libre_installation) [<img src="./img/badge_github.png" alt="View on Github" height="60">](https://github.com/threema-ch/threema-android)
@@ -175,6 +183,10 @@
 [<img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" alt="Get it on Google Play" height="60">]() [<img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="60">](https://mobileapp.bitwarden.com/fdroid/) [<img src="./img/badge_github.png" alt="View on Github" height="60">]()
 
 ![](https://img.shields.io/github/release-date-pre/beemdevelopment/Aegis) ![](https://img.shields.io/github/v/release/beemdevelopment/Aegis)
+
+# Keyboard
+
+[<img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" alt="Get it on Google Play" height="60">](https://play.google.com/store/apps/details?id=com.simplemobiletools.keyboard) [<img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="60">](https://f-droid.org/packages/com.simplemobiletools.keyboard/) [<img src="./img/badge_github.png" alt="View on Github" height="60">](https://github.com/SimpleMobileTools/Simple-Keyboard)
 
 # Device Security
 
