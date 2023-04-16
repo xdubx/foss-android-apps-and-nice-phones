@@ -147,6 +147,8 @@ Open-source, community-driven maps for travelers, tourists, cyclists & hikers
 
 [<img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" alt="Get it on Google Play" height="60">](https://play.google.com/store/apps/details?id=im.vector.app) [<img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="60">](https://f-droid.org/en/packages/im.vector.app/) [<img src="./img/badge_github.png" alt="View on Github" height="60">](https://github.com/vector-im/element-android)
 
+![](https://img.shields.io/github/release-date-pre/vector-im/element-android) ![](https://img.shields.io/github/v/release/vector-im/element-android)
+
 ## Theema
 
 - 💰 Google Play
@@ -154,9 +156,14 @@ Open-source, community-driven maps for travelers, tourists, cyclists & hikers
 
 [<img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" alt="Get it on Google Play" height="60">](https://play.google.com/store/apps/details?id=ch.threema.app) [<img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="60">](https://threema.ch/en/faq/libre_installation) [<img src="./img/badge_github.png" alt="View on Github" height="60">](https://github.com/threema-ch/threema-android)
 
+![](https://img.shields.io/github/release-date-pre/threema-ch/threema-android) ![](https://img.shields.io/github/v/release/threema-ch/threema-android)
+
+
 ## Signal
 
 [<img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" alt="Get it on Google Play" height="60">](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms) [<img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="60">]() [<img src="./img/badge_github.png" alt="View on Github" height="60">](https://github.com/signalapp/Signal-Android)
+
+![](https://img.shields.io/github/release-date-pre/signalapp/Signal-Android) ![](https://img.shields.io/github/v/release/signalapp/Signal-Android)
 
 ## Nextcloud talk
 
@@ -164,13 +171,17 @@ Open-source, community-driven maps for travelers, tourists, cyclists & hikers
 
 [<img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" alt="Get it on Google Play" height="60">](https://play.google.com/store/apps/details?id=com.nextcloud.talk2) [<img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="60">](https://f-droid.org/en/packages/com.nextcloud.talk2/) [<img src="./img/badge_github.png" alt="View on Github" height="60">](https://github.com/nextcloud/talk-android)
 
+![](https://img.shields.io/github/release-date-pre/nextcloud/talk-android) ![](https://img.shields.io/github/v/release/nextcloud/talk-android)
+
 ## Jitsi Meet
 
 [<img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" alt="Get it on Google Play" height="60">](https://play.google.com/store/apps/details?id=org.jitsi.meet) [<img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="60">](https://f-droid.org/en/packages/org.jitsi.meet/) [<img src="./img/badge_github.png" alt="View on Github" height="60">](https://github.com/jitsi/jitsi-meet)
 
+![](https://img.shields.io/github/release-date-pre/jitsi/jitsi-meet) ![](https://img.shields.io/github/v/release/jitsi/jitsi-meet)
+
+
 # Payment
 
-# Musicplayer
 
 # Browser
 
@@ -196,6 +207,7 @@ Bromite is a Chromium fork with ad blocking and enhanced privacy; take back your
 
 [<img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" alt="Get it on Google Play" height="60">](https://play.google.com/store/apps/details?id=org.mozilla.firefox) [<img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="60">]() [Source](https://github.com/mozilla-mobile/fenix)
 
+![](https://img.shields.io/github/release-date-pre/mozilla-mobile/fenix) ![](https://img.shields.io/github/v/release/mozilla-mobile/fenix)
 
 ## Mull
 
@@ -205,6 +217,7 @@ This is a privacy oriented and deblobbed web browser based on Mozilla technology
 
 [<img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="60">](https://f-droid.org/en/packages/us.spotco.fennec_dos/) [Gitlab](https://gitlab.com/divested-mobile/mull-fenix)
 
+![](https://img.shields.io/github/release-date-pre/divested-mobile/mull-fenix) ![](https://img.shields.io/github/v/release/divested-mobile/mull-fenix)
 
 # Search Engine
 
@@ -214,8 +227,8 @@ This is a privacy oriented and deblobbed web browser based on Mozilla technology
 - Proxy to block tracking
 
 [<img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" alt="Get it on Google Play" height="60">]() [<img src="./img/badge_github.png" alt="View on Github" height="60">](https://github.com/duckduckgo/Android)  
-![](https://img.shields.io/github/release-date-pre/duckduckgo/Android) ![](https://img.shields.io/github/v/release/duckduckgo/Android)
 
+![](https://img.shields.io/github/release-date-pre/duckduckgo/Android) ![](https://img.shields.io/github/v/release/duckduckgo/Android)
 
 ## Brave
 See Brave App
@@ -233,6 +246,10 @@ Aegis Authenticator is a free, secure and open source app to manage your 2-step 
 ![](https://img.shields.io/github/release-date-pre/beemdevelopment/Aegis) ![](https://img.shields.io/github/v/release/beemdevelopment/Aegis)
 
 ## Bitwarden
+
+```
+A secure and free password manager for all of your devices.
+```
 
 [<img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" alt="Get it on Google Play" height="60">](https://play.google.com/store/apps/details?id=com.x8bit.bitwarden) [<img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="60">](https://mobileapp.bitwarden.com/fdroid/) [<img src="./img/badge_github.png" alt="View on Github" height="60">](https://github.com/bitwarden/mobile)
 
@@ -278,11 +295,34 @@ By LineageOS
 
 [Mirror](https://www.apkmirror.com/apk/lineageos/android-keyboard-aosp-2/)
 
-# Device Security
+# Device Security & Management
+
+## App Manager
+
+- Detailed display of apps
+
+```
+A full-featured open source package manager for android.
+```
+
+[<img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="60">](https://f-droid.org/de/packages/io.github.muntashirakon.AppManager/) [<img src="./img/badge_github.png" alt="View on Github" height="60">](https://github.com/MuntashirAkon/AppManager)
+
+![](https://img.shields.io/github/release-date-pre/MuntashirAkon/AppManager) ![](https://img.shields.io/github/v/release/MuntashirAkon/AppManager)
 
 ## FindMyDevice
 
 [<img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="60">](https://f-droid.org/en/packages/de.nulide.findmydevice/) [Gitlab](https://gitlab.com/Nulide/findmydevice)
+
+# Backup
+
+## Seedvault
+
+```
+A backup application for the Android Open Source Project.
+```
+[<img src="./img/badge_github.png" alt="View on Github" height="60">](https://github.com/seedvault-app/seedvault)
+
+![](https://img.shields.io/github/release-date-pre/seedvault-app/seedvault) ![](https://img.shields.io/github/v/release/seedvault-app/seedvault)
 
 # Weather
 
@@ -297,6 +337,9 @@ Small Weather App with data from OpenWeatherMap.org
 
 ## Geometric Weather
 
+- Fancy implementation of weather
+- Some widgets are buggy
+
 ```
 Geometric Weather is a free and open-source Android weather app.
 This build flavor has all proprietary dependencies and related code stripped out to make it eligible for inclusion on F-Droid.
@@ -305,6 +348,7 @@ This build flavor has all proprietary dependencies and related code stripped out
 [<img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" alt="Get it on Google Play" height="60">](https://play.google.com/store/apps/details?id=de.beowulf.wetter) [<img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="60">](https://f-droid.org/en/packages/wangdaye.com.geometricweather/) [<img src="./img/badge_github.png" alt="View on Github" height="60">](https://github.com/WangDaYeeeeee/GeometricWeather)
 
 ![](https://img.shields.io/github/release-date-pre/WangDaYeeeeee/GeometricWeather) ![](https://img.shields.io/github/v/release/WangDaYeeeeee/GeometricWeather)
+
 # Entertainment
 
 ## New Pipe
@@ -326,6 +370,29 @@ The official ReVanced Manager based on Flutter. Patches Youtube, Youtube Music, 
 # Debloat tools
 
 [Source](https://github.com/0x192/universal-android-debloater)
+
+# Musicplayer
+
+## Auxio
+
+```
+Auxio is a local music player with a fast, reliable UI/UX without the many useless features present in other music players. Built off of Exoplayer, Auxio has superior library support and listening quality compared to other apps that use outdated android functionality. In short, It plays music.
+```
+[<img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="60">](https://f-droid.org/en/packages/org.oxycblt.auxio/) [<img src="./img/badge_github.png" alt="View on Github" height="60">](https://github.com/OxygenCobalt/Auxio)
+
+![](https://img.shields.io/github/release-date-pre/OxygenCobalt/Auxio) ![](https://img.shields.io/github/v/release/OxygenCobalt/Auxio)
+
+
+## Spotube
+
+```
+Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
+```
+
+[<img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="60">](https://f-droid.org/de/packages/oss.krtirtho.spotube/) [<img src="./img/badge_github.png" alt="View on Github" height="60">](https://github.com/KRTirtho/spotube)
+
+![](https://img.shields.io/github/release-date-pre/KRTirtho/spotube) ![](https://img.shields.io/github/v/release/KRTirtho/spotube)
+
 
 # Android Phone buy list for Custom Os
 
