@@ -19,6 +19,7 @@
 | [PureOS](https://pureos.net/)               | [Click](https://puri.sm/products/librem-5/pureos-mobile/)    | Version              |
 | [iode](https://iode.tech/en/)               | [Click](https://github.com/iodeOS/ota)    | Version              |
 | [Divestos](https://divestos.org/)               | [Click](https://divestos.org/pages/devices)    | Version              |
+| [Havoc-OS](https://havoc-os.com/)               | [Click](https://github.com/Havoc-OS/Devices)    | 11             |
 
 # App Store
 
@@ -217,7 +218,9 @@ This is a privacy oriented and deblobbed web browser based on Mozilla technology
 
 [<img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="60">](https://f-droid.org/en/packages/us.spotco.fennec_dos/) [Gitlab](https://gitlab.com/divested-mobile/mull-fenix)
 
-![](https://img.shields.io/github/release-date-pre/divested-mobile/mull-fenix) ![](https://img.shields.io/github/v/release/divested-mobile/mull-fenix)
+![](https://img.shields.io/gitlab/last-commit/divested-mobile/mull-fenix)
+
+	
 
 # Search Engine
 
@@ -367,9 +370,6 @@ The official ReVanced Manager based on Flutter. Patches Youtube, Youtube Music, 
 
 [<img src="./img/badge_github.png" alt="View on Github" height="60">](https://github.com/revanced/revanced-manager)
 
-# Debloat tools
-
-[Source](https://github.com/0x192/universal-android-debloater)
 
 # Musicplayer
 
@@ -393,6 +393,10 @@ Open source Spotify client that doesn't require Premium nor uses Electron! Avail
 
 ![](https://img.shields.io/github/release-date-pre/KRTirtho/spotube) ![](https://img.shields.io/github/v/release/KRTirtho/spotube)
 
+
+# Debloat tools
+
+[Source](https://github.com/0x192/universal-android-debloater)
 
 # Android Phone buy list for Custom Os
 
