@@ -338,19 +338,18 @@ Small Weather App with data from OpenWeatherMap.org
 [<img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" alt="Get it on Google Play" height="60">](https://play.google.com/store/apps/details?id=de.beowulf.wetter) [<img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="60">](https://f-droid.org/en/packages/de.beowulf.wetter/) [Source](https://codeberg.org/BeoCode/Weather)
 
 
-## Geometric Weather
+## Breezy Weather
 
 - Fancy implementation of weather
 - Some widgets are buggy
 
 ```
-Geometric Weather is a free and open-source Android weather app.
-This build flavor has all proprietary dependencies and related code stripped out to make it eligible for inclusion on F-Droid.
+Breezy Weather is a weather app with a strong focus on design, with a simple, clean UX, smooth animations, and Material Design all over, plus lots of customizability.
 ```
 
-[<img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" alt="Get it on Google Play" height="60">](https://play.google.com/store/apps/details?id=de.beowulf.wetter) [<img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="60">](https://f-droid.org/en/packages/wangdaye.com.geometricweather/) [<img src="./img/badge_github.png" alt="View on Github" height="60">](https://github.com/WangDaYeeeeee/GeometricWeather)
+[<img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="60">](https://f-droid.org/de/packages/org.breezyweather/) [<img src="./img/badge_github.png" alt="View on Github" height="60">](https://github.com/breezy-weather/breezy-weather/releases) 
 
-![](https://img.shields.io/github/release-date-pre/WangDaYeeeeee/GeometricWeather) ![](https://img.shields.io/github/v/release/WangDaYeeeeee/GeometricWeather)
+![](https://img.shields.io/github/release-date-pre/breezy-weather/breezy-weather/) ![](https://img.shields.io/github/v/release/breezy-weather/breezy-weather/)
 
 # Entertainment
 
